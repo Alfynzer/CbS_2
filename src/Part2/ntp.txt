@@ -1,0 +1,16 @@
+1. Какой протокол четвертого уровня (по OSI) используется для взаимодействия между NTP-клиентом и NTP-сервером?
+
+   Ответ: UDP (User Datagram Protocol)
+
+2. Какие source- и destination-порты при этом используются?
+   
+   Ответ:
+
+     Source port: 123
+
+     Destination port: 123
+3.  Проверь передаваемое в первом NTP-пакете значение Transmit timestamp и запиши его.
+
+    Ответ:
+
+    Transmit Timestamp: Sep 17, 2025 17:30:54.404071157 UTC
